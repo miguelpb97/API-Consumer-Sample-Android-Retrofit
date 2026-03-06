@@ -1,6 +1,12 @@
 # CatAPI App Example
 Android App for API consume using the Retrofit library.
 
+Tech: Java, Kotlin
+Features:
+- REST API
+- CRUD tasks
+- Authentication
+
 First, need to get an API Key on [catapi.com](https://thecatapi.com/), then start the app and put the api key, this will be save in the app. 
 You can change the API key later if you need to from the vertical menu in the main window.
 
